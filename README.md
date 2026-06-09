@@ -21,7 +21,7 @@ Getting roasted by your own machine is incredibly simple.
 
 ### 1. Clone or Download
 
-Copy the script code into a file named `.typotazir.sh` in your home directory, or just append it directly to your shell configuration.
+Copy the script code into a file named `.sarkooft.sh` in your home directory, or just append it directly to your shell configuration.
 
 ### 2. Add to your Shell Config
 
@@ -36,7 +36,7 @@ nano ~/.bashrc  # or nano ~/.zshrc
 Add the following line at the very end of the file:
 
 ```bash
-[[ -f ~/.typotazir.sh ]] && source ~/.typotazir.sh
+[[ -f ~/.sarkooft.sh ]] && source ~/.sarkooft.sh
 
 ```
 
